@@ -6,6 +6,8 @@
 
 No internet. No API keys. No Ollama. Just you and your device.
 
+**Developed by Rasheed** | [GitHub](https://github.com/xcracker000)
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey.svg)](https://github.com/xcracker000/MTK-AI-Agent)
@@ -373,6 +375,7 @@ MTK-AI-Agent.exe
 
 ## Credits
 
+- **Developed by [Rasheed](https://github.com/xcracker000)**
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) — Core MTKClient library
 - kamakiri [xyzz]
 - linecode exploit [chimera]
@@ -390,6 +393,8 @@ MIT License. Based on [bkerler/mtkclient](https://github.com/bkerler/mtkclient).
 ---
 
 <div align="center">
+
+### Developed by Rasheed
 
 **Download the latest release:** [MTK-AI-Agent.exe](https://github.com/xcracker000/MTK-AI-Agent/releases/download/v2.0.0/MTK-AI-Agent.exe)
 
