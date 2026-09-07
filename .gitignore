@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets & Credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*_token*
+*_secret*
+*_password*
+credentials.json
+service-account*.json
+
+# Build artifacts
+*.spec
+MTK-AI-Agent.spec
+
+# MTKClient build/runtime
+DA_*.bin
+*.bin
+!mtkclient/Library/Filesystem/bin/*.dll
+!mtkclient/Windows/*.dll
+logs/
+agent_session.json
+
+# Distribution
+/dist/
+/build/
+/*.egg-info
+
+# Temporary
+*.tmp
+*.bak
+*.log
